@@ -1,0 +1,7 @@
+{
+  "runtime": "4.10.0",
+  "workerSize": 0.1,
+  "applicationName": "american-ws-anypoint-code-builder",
+  "workers": 1,
+  "autoStart": true
+}

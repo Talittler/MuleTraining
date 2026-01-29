@@ -1,0 +1,16 @@
+# Maven
+target/
+.mvn/
+*.log
+
+# Mule / Studio
+.project
+.classpath
+.settings/
+bin/
+
+# VS Code
+.vscode/
+
+# OS junk
+.DS_Store
